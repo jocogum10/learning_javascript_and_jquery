@@ -1,0 +1,1 @@
+$('li[id!="one"]').hide().delay(500).fadeln(1400);
